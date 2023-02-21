@@ -1,4 +1,4 @@
-### Hi there https://nullpounce.github.io/👋
+### Hi there https://nullpounce.github.io/
 
 
 
