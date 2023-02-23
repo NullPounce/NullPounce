@@ -19,7 +19,7 @@
 ![Untitled](https://user-images.githubusercontent.com/28081004/220236935-af552656-bed6-4ae4-840c-7bda26048e7e.png)
 ![knight](https://user-images.githubusercontent.com/28081004/220236961-a8ee4613-fbf0-4cdc-a933-193d46dac6c7.png)
 ![999](https://user-images.githubusercontent.com/28081004/220236946-4257078d-ba6c-4c8c-99f4-38fbbd256c1a.png)
-![-Invader-Zim-Title-Sequence-invader-zim-23438603-1360-768-removebg-preview](https://user-images.githubusercontent.com/28081004/220237132-a112dbbc-1870-44ab-ad58-1a7ef20a676e.png)
+
 
 ## ️🛠️ Some Tools and Tech I use
 
