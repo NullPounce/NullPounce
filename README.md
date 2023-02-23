@@ -31,7 +31,7 @@
 ![cell](https://user-images.githubusercontent.com/28081004/220236470-32d40093-26ee-4216-a256-17fa5b097a95.png)
 ![yy](https://user-images.githubusercontent.com/28081004/220236489-94fcc00d-60b7-44e4-9432-f95e332bf49c.png)
 
-credits to invader zim
+
 <a href="https://www.buymeacoffee.com/NullPounce"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee <3&emoji=&slug=NullPounce&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X6I1K9I)
