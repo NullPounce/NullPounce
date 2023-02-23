@@ -7,7 +7,7 @@
 ![editor-1s-47px](https://user-images.githubusercontent.com/28081004/216797705-9294a8ce-5dad-4d90-90b9-61aad14347fb.gif)
 
 
-## 👾Some info (22 repo stars)
+## 👾Some info
 
 - 📱 Mobile App/Web Development
 - 🛠 DIY Electronics Projects
