@@ -1,7 +1,9 @@
 ### Hi there www.nullpounce.com
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X6I1K9I)
 
+BitCoin: 1EMZpRSBRUcbxnKfFJQ9G5bXDFNDkH7PNE
 
+Monero: 4A75SgESZjVbTBwKH1wVF3KMCAbHUToEk3kFrgWZ2J8K9CiSnMbQdD2fBw1BPmpHrTTh314MJ3XvkP33isWDgMFQEZuTzut
 
 
 ![editor-1s-47px](https://user-images.githubusercontent.com/28081004/216797705-9294a8ce-5dad-4d90-90b9-61aad14347fb.gif)
