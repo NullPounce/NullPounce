@@ -18,14 +18,9 @@ Monero: 4A75SgESZjVbTBwKH1wVF3KMCAbHUToEk3kFrgWZ2J8K9CiSnMbQdD2fBw1BPmpHrTTh314M
 
 
 <div align="center">
-  <a href="https://yesterweb.org/no-to-web3/">
-    <img src="https://www.nullpounce.com/assets/noweb3.gif" 
-  </a>
-   <a href="https://livefree999.org/">
-    <img src="https://www.nullpounce.com/assets/999.png" 
-  </a>
+</a>
     <a href="https://www.nullpounce.com/">
-    <img src="https://www.nullpounce.com/assets/000010.gif" 
+    <img src="https://raw.githubusercontent.com/NullPounce/pounce-keys/main/000010.gif" 
   </a> 
 
 
@@ -38,25 +33,22 @@ Monero: 4A75SgESZjVbTBwKH1wVF3KMCAbHUToEk3kFrgWZ2J8K9CiSnMbQdD2fBw1BPmpHrTTh314M
 # projects 
 <div align="center">
   <a href="https://github.com/NullPounce/VirtuTerm">
-    <img src="https://www.nullpounce.com/assets/term.gif" 
+    <img src="https://user-images.githubusercontent.com/28081004/221775835-21ae67d8-3a0e-4d5c-bc1b-5bc800d443d2.gif" 
   </a>
 <a href="https://github.com/NullPounce/pounce-keys">                                                  
-    <img src="https://www.nullpounce.com/assets/demo.gif">
+    <img src="https://github.com/NullPounce/pounce-keys/blob/main/demo.gif?raw=true">
   </a>
 <a href="https://github.com/NullPounce/K12-Education-Focus-Scripts">                                                  
-    <img src="https://www.nullpounce.com/assets/ezgif-5-46c3b0ac9a.gif">
+    <img src="https://github.com/NullPounce/K12-Education-Focus-Scripts/blob/main/ezgif-5-46c3b0ac9a.gif?raw=true">
   </a>
     
 <a href="https://github.com/NullPounce/Kawaii-Browsing">
-    <img src="https://www.nullpounce.com/assets/hk.gif" 
+    <img src="https://github.com/NullPounce/Kawaii-Browsing/blob/main/hk.gif?raw=true" 
   </a>
 
 <a href="https://www.buymeacoffee.com/NullPounce"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee <3&emoji=&slug=NullPounce&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 
   
-  <div align="center">
-  <a href="https://bigfix.snyk.io/leaderboard">
-    <img src="https://www.nullpounce.com/assets/Screenshot%202023-02-27%20220520.png" 
-  </a>
+
   
