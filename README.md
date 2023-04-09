@@ -1,4 +1,6 @@
 ### Hi there www.nullpounce.com
+come check out my blog https://nullpounce.blog/
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X6I1K9I)
 
 BitCoin: 1EMZpRSBRUcbxnKfFJQ9G5bXDFNDkH7PNE
