@@ -1,5 +1,6 @@
 ### Hi there www.nullpounce.com
 come check out my blog https://nullpounce.blog/
+https://discord.gg/gq5vP9z648
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X6I1K9I)
 
